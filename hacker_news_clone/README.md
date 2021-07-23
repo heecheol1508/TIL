@@ -4,7 +4,7 @@
 
 ##### START
 
-![image-20210722210030627](.\images\00.jpg)
+![image-20210722210030627](images\00.jpg)
 
 
 
@@ -12,7 +12,7 @@
 
 ##### AJAX 사용하기
 
-![image-20210722210349115](.\images\01.jpg)
+![image-20210722210349115](\images\01.jpg)
 
 
 
@@ -20,7 +20,7 @@
 
 ##### 화면 전환하기
 
-![image-20210722213615207](.\images\02.jpg)
+![image-20210722213615207](..\images\02.jpg)
 
 - hashchange 이벤트로 content 가져오기
 
