@@ -6,9 +6,7 @@
 
 ![image-20210722210030627](https://github.com/heecheol1508/TIL/blob/master/hacker_news_clone/images/00.jpg)
 
-
-
-
+<br/><br/>
 
 
 
@@ -16,9 +14,7 @@
 
 ![image-20210722210349115](https://github.com/heecheol1508/TIL/blob/master/hacker_news_clone/images/01.jpg)
 
-
-
-
+<br/><br/>
 
 
 
@@ -28,9 +24,7 @@
 
 - hashchange 이벤트로 content 가져오기
 
-
-
-
+<br/><br/>
 
 
 
@@ -40,9 +34,7 @@
 - 코드가 훨씬 더 늘어나고 복잡해진다면, 그때는 거의 불가능할 듯
 - DOM API를 이용해서 UI의 구조가 잘 드러나지 않는 문제점을 해결하는 가장 쉬운 방법은 DOM API 사용을 줄이는 것
 
-
-
-
+<br/><br/>
 
 
 
@@ -53,9 +45,7 @@
 - 임시 div 활용 (이전보다 나아졌지만 여전히 DOM API 존재)
 - 중복 코드 제거 (함수 만들기)
 
-
-
-
+<br/><br/>
 
 
 
@@ -66,9 +56,7 @@
 - 한 번에 한 화면만 보여주는 구조를 위해, container에 추가하는 것이 아닌, 덮어쓰는 방법으로 구조 구축
 - DOM API 제거 및 li 요소의 반복을 적용한 문자열을 만들기 위해, 배열 사용하기
 
-
-
-
+<br/><br/>
 
 
 
@@ -79,9 +67,7 @@
 - 중복 제거 및 재사용을 위한 함수 분리
 - 라우터 구현 (with location.hash)
 
-
-
-
+<br/><br/>
 
 
 
