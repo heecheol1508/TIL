@@ -4,7 +4,7 @@
 
 ##### START
 
-![image-20210722210030627](images\00.jpg)
+![image-20210722210030627](https://github.com/heecheol1508/TIL/blob/master/hacker_news_clone/images/00.jpg)
 
 
 
