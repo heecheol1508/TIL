@@ -102,4 +102,26 @@
 
 
 
-tailwindcss 사용하기
+##### tailwindcss 사용하기
+
+![image-20210803140253274](https://github.com/heecheol1508/TIL/blob/master/hacker_news_clone/images/08.jpg)
+
+<br/><br/>
+
+
+
+##### 댓글, 대댓글, 대대댓글 처리하기
+
+![image-20210809121009143](https://github.com/heecheol1508/TIL/blob/master/hacker_news_clone/images/09.jpg)
+
+<br/><br/>
+
+
+
+##### 읽은 글 표시하기
+
+##### 마지막 페이지 설정하기
+
+
+
+끝
